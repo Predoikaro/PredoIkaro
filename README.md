@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Ikaro
+# Olá, eu sou Pedro Ikaro
 
 ### Desenvolvedor Web em formação
 
@@ -8,15 +8,15 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, Python, APIs e
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * 💻 Desenvolvedor Web em formação
-* 🎓 Estudante de Ciência da Computação
-* 🌱 Atualmente estudando **Python, APIs e desenvolvimento back-end**
-* 🗄️ Conhecimentos em **MySQL e SQL**
-* 🔧 Utilizo **Git e GitHub** para versionamento e organização dos projetos
-* 🎨 Interesse em interfaces modernas, responsivas e bem estruturadas
-* 📚 Aprendo principalmente construindo projetos e colocando conceitos em prática
+*  Estudante de Ciência da Computação
+*  Atualmente estudando **Python, APIs e desenvolvimento back-end**
+*  Conhecimentos em **MySQL e SQL**
+*  Utilizo **Git e GitHub** para versionamento e organização dos projetos
+*  Interesse em interfaces modernas, responsivas e bem estruturadas
+*  Aprendo principalmente construindo projetos e colocando conceitos em prática
 
 ---
 
@@ -25,8 +25,6 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, Python, APIs e
 ### Front-end
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
 </p>
 
