@@ -1,35 +1,139 @@
-#  Pedro Ikaro
+# 👋 Olá, eu sou Pedro Ikaro
 
-**`Desenvolvedor Full Stack`**
+### Desenvolvedor Web em formação
 
-Me chamo Pedro Ikaro Campos, tenho 19 anos e sou natural do Ceará. Atualmente, estou cursando Ciências da Computação. "[Perfil do Instagram](https://www.instagram.com/eopedroikaro/)".
-tenho foco em **Full Stack**, gosto de aprender na prática e estou sempre buscando evoluir em lógica, boas práticas e programação.
+Construo projetos web para transformar ideias em experiências **modernas, responsivas e funcionais**.
 
-
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  
-  ##
-
-🔥 Atividade 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Predoikaro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div> 
-  
-  <a href="https://www.instagram.com/eopedroikaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, Python, APIs e bancos de dados**, sempre buscando aprender na prática através de projetos reais.
 
 ---
 
+## 🚀 Sobre mim
 
+* 💻 Desenvolvedor Web em formação
+* 🎓 Estudante de Ciência da Computação
+* 🌱 Atualmente estudando **Python, APIs e desenvolvimento back-end**
+* 🗄️ Conhecimentos em **MySQL e SQL**
+* 🔧 Utilizo **Git e GitHub** para versionamento e organização dos projetos
+* 🎨 Interesse em interfaces modernas, responsivas e bem estruturadas
+* 📚 Aprendo principalmente construindo projetos e colocando conceitos em prática
 
+---
 
+## 🛠️ Tecnologias
+
+### Front-end
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+</p>
+
+### Back-end & Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+</p>
+
+---
+
+## 📌 Projetos
+
+### 🌸 BeautyWish
+
+Projeto voltado para organização de produtos de beleza e listas de desejos.
+
+A ideia é permitir que o usuário organize seus produtos, consulte informações e acompanhe alterações de preço.
+
+**Tecnologias:** HTML • CSS • JavaScript • Python • FastAPI
+
+---
+
+### 💻 Meu Portfólio
+
+Meu portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos e projetos como desenvolvedor.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+---
+
+### 💅 Esmalte-Page
+
+Página web desenvolvida para apresentar produtos de forma visual, moderna e responsiva.
+
+Foi um dos projetos que ajudaram no meu aprendizado de desenvolvimento front-end.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+---
+
+### 🐍 Estudo-Python
+
+Repositório criado para registrar minha evolução durante os estudos de Python.
+
+Contém exercícios e pequenos projetos desenvolvidos para praticar lógica de programação, estruturas de dados, funções e outros conceitos fundamentais.
+
+**Tecnologia:** Python
+
+---
+
+### 🏦 Sistema Bancário
+
+Projeto desenvolvido para praticar conceitos básicos de programação utilizando Python.
+
+**Tecnologia:** Python
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+JavaScript
+Python
+APIs
+MySQL / SQL
+Git & GitHub
+Desenvolvimento Web
+```
+
+Meu foco atual é evoluir principalmente em **Python, APIs e integração entre front-end e back-end**.
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, construir aplicações cada vez mais completas e conquistar uma oportunidade profissional onde eu possa **aprender, contribuir e desenvolver soluções reais**.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/Predoikaro">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-ikaro-campos-94b813343/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://predoikaro.github.io/Meu-Portof-lio/">
+    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Construindo, aprendendo e evoluindo um projeto de cada vez.</strong>
+</p>
