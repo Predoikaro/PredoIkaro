@@ -47,7 +47,7 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, Python, APIs e
 
 ## 📌 Projetos
 
-### 🌸 BeautyWish
+### BeautyWish
 
 Projeto voltado para organização de produtos de beleza e listas de desejos.
 
@@ -57,7 +57,7 @@ A ideia é permitir que o usuário organize seus produtos, consulte informaçõe
 
 ---
 
-### 💻 Meu Portfólio
+### Meu Portfólio
 
 Meu portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos e projetos como desenvolvedor.
 
@@ -65,7 +65,7 @@ Meu portfólio pessoal desenvolvido para apresentar minha trajetória, conhecime
 
 ---
 
-### 💅 Esmalte-Page
+### Esmalte-Page
 
 Página web desenvolvida para apresentar produtos de forma visual, moderna e responsiva.
 
@@ -125,7 +125,7 @@ Continuar evoluindo como desenvolvedor, construir aplicações cada vez mais com
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://predoikaro.github.io/Meu-Portof-lio/">
+  <a href="(https://pedroikaro.vercel.app)">
     <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
