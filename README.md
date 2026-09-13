@@ -108,6 +108,15 @@ Meu foco atual é evoluir principalmente em **Python, APIs e integração entre 
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="180" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predoikaro&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="180" alt="Linguagens mais utilizadas" />
+
+</p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Predoikaro&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /> </p>
+
+
 ## 🎯 Objetivo
 
 Continuar evoluindo como desenvolvedor, construir aplicações cada vez mais completas e conquistar uma oportunidade profissional onde eu possa **aprender, contribuir e desenvolver soluções reais**.
@@ -125,7 +134,7 @@ Continuar evoluindo como desenvolvedor, construir aplicações cada vez mais com
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="(https://pedroikaro.vercel.app)">
+  <a href="https://pedroikaro.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
