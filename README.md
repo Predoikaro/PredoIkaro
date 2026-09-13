@@ -108,27 +108,13 @@ Meu foco atual é evoluir principalmente em **Python, APIs e integração entre 
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=dark&hide_border=true&locale=pt-br"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=dark&hide_border=true" height="180" alt="Estatísticas do GitHub" />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predoikaro&layout=compact&theme=dark&hide_border=true&locale=pt-br"
- height="180"
- alt="Linguagens mais utilizadas"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Predoikaro&layout=compact&langs_count=6&theme=dark&hide_border=true" height="180" alt="Linguagens mais utilizadas" />
 
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Predoikaro&theme=dark&hide_border=true&locale=pt_BR"
-    alt="GitHub Streak"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Predoikaro&theme=dark&hide_border=true" alt="GitHub Streak" /> </p>
 
 
 
