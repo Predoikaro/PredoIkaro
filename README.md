@@ -108,12 +108,7 @@ Meu foco atual é evoluir principalmente em **Python, APIs e integração entre 
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=dark&hide_border=true" height="180" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predoikaro&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Linguagens mais utilizadas" />
-
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Predoikaro&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="180" alt="Estatísticas do GitHub" />
 
 
 ## 🎯 Objetivo
